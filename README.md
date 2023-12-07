@@ -1,4 +1,4 @@
 # natsuka
 Japanese learning website
-prd  prd.doc
-td td.doc
+[prd](prd.doc)
+[td](td.doc)
