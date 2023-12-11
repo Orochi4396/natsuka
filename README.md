@@ -1,5 +1,5 @@
 # natsuka
 Japanese learning website  
 
-[prd](prd.docx)
-[td](td.docx)
+[requirement document](document/prd.md)
+
